@@ -1,7 +1,7 @@
 package com.ryactiv.retos;
 
-import com.ryactiv.retos.codewars.kyu8.RockPaperScissor;
-import com.ryactiv.retos.codewars.kyu8.ZywOo;
+import com.ryactiv.retos.nivel_1.RockPaperScissor;
+import com.ryactiv.retos.nivel_1.lobo_oveja.ZywOo;
 
 public class RetosMain {
 

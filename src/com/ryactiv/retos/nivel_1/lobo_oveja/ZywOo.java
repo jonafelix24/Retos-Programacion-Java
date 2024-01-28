@@ -1,6 +1,12 @@
-package com.ryactiv.retos.codewars.kyu8;
+package com.ryactiv.retos.nivel_1.lobo_oveja;
 
 /*
+ * LOBO DISFRAZADO DE OVEJA
+ * 
+ * NIVEL: 1
+ * TAGS: Arrays
+ * FUENTE: https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+ * 
  * DESCRIPCIÓN:
  * Los lobos han sido reintroducidos en Gran Bretaña. Eres un granjero
  * de ovejas, y ahora estás plagado de lobos que se hacen pasar por ovejas. 

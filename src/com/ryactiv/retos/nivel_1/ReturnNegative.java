@@ -1,4 +1,4 @@
-package com.ryactiv.retos.codewars.kyu8;
+package com.ryactiv.retos.nivel_1;
 
 /*
  * En este reto se te da un número y tienes que convertirlo
