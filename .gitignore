@@ -1,3 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+### VS Code ###
+.vscode/
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
 # Compiled class file
 *.class
 
