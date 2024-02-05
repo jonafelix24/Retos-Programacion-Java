@@ -8,7 +8,7 @@
 
 ## DESCRIPCIÓN:
 
-Tienes que regresar qué jugador gana! En caso de empate regresar el texto **Draw!**.
+Tienes que decir qué jugador gana! En caso de empate retornar el texto **Draw!**.
 
 **Notas:**
 - scissors (tijera) > paper (papel)
