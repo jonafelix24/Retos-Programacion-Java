@@ -19,7 +19,7 @@ Advierte a la oveja que está frente al lobo que está a punto de ser devorada. 
    
 Si el lobo es el animal más cercano a ti, devuelve "Pls go away and stop eating my sheep" (Por favor vete y deja de comer mis ovejas). De lo contrario, devuelve "Oi! Sheep number N! You are about to be eaten by a wolf!" (¡Oye! ¡Oveja número N! ¡Estás a punto de ser comido por un lobo!) donde N es la posición de la oveja en la cola.
 
-**Nota:** siempre habrá exactamente un lobo en el arreglo.
+**Nota:** Siempre habrá exactamente un lobo en el arreglo.
 
 
 ## Ejemplos
