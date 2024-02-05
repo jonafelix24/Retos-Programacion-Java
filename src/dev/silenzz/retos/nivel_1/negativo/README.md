@@ -2,9 +2,9 @@
 
 **Nivel:** 1
 <br>
-**Tags:** Arrays
+**Tags:** Básico
 <br>
-**Fuente:** [Codewars](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)
+**Fuente:** [Codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 ## DESCRIPCIÓN:
 
