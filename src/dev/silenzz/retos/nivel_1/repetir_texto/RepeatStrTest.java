@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class RepeatStrTest {
+public class RepeatStrTest {
 
     @Test
     public void test4a() {

@@ -1,9 +1,9 @@
 package dev.silenzz.retos.nivel_1.negativo;
 
-public class ReturnNegative {
+public class ReturnNegativeSolucion {
 
     public static int makeNegative(final int x) {
-        return 0;
+        return x > 0 ? -x : x;
     }
 
 }
